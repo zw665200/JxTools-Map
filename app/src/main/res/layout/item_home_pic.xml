@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_150"
+    android:layout_gravity="center"
+    android:layout_margin="@dimen/dp_5"
+    android:orientation="vertical"
+    android:scrollbars="none"
+    app:cardCornerRadius="@dimen/dp_10">
+
+    <ImageView
+        android:id="@+id/pic_src"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_150"
+        android:scaleType="centerCrop"
+        android:src="@drawable/tiananmen" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="北京"
+        android:textColor="@color/color_white"
+        android:textSize="@dimen/sp_28"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/pic_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="@drawable/alpha_50_shadow"
+        android:gravity="center"
+        android:text="燕山雪花大如席"
+        android:textColor="@color/color_white"
+        android:textSize="@dimen/sp_12" />
+
+</androidx.cardview.widget.CardView>

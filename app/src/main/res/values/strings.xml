@@ -1,0 +1,113 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">VR世界街景地图</string>
+
+    <!--inland-->
+    <string name="inland_title">VR全景</string>
+
+    <!--outland-->
+    <string name="outland_title">全球景点</string>
+
+    <!--mine-->
+    <string name="mine_vip">我的VIP</string>
+    <string name="mine_website">官网网站</string>
+    <string name="mine_help">联系客服</string>
+    <string name="mine_feedback">投诉与退款</string>
+    <string name="mine_service">服务协议</string>
+    <string name="mine_privacy">隐私政策</string>
+    <string name="mine_setting">系统设置</string>
+
+
+    <!--recovery_pay-->
+    <string name="recovery_pay_title1">超值套餐</string>
+    <string name="recovery_pay_content1">恢复，查看，导出微信聊天信息</string>
+    <string name="recovery_pay_content1_1">授权一个微信号 | 一年内有效</string>
+    <string name="recovery_pay_title2">聊天恢复记录</string>
+    <string name="recovery_pay_content2">支持所有恢复功能</string>
+    <string name="recovery_pay_content2_1">授权多个微信号 | 一年内有效</string>
+
+    <!--setting-->
+    <string name="setting_about_us">关于我们</string>
+    <string name="setting_about_us_des">关于我们，了解更多</string>
+    <string name="setting_clear_cache">清除缓存</string>
+    <string name="setting_clear_cache_des">清除缓存，加快运行速度</string>
+
+    <!--agreement-->
+    <string name="agreement_service">服务协议</string>
+    <string name="agreement_privacy">隐私政策</string>
+
+    <!--feedback-->
+    <string name="feedback">投诉与退款</string>
+    <string name="feedback_hint">请输入您的问题，10字以上</string>
+    <string name="feedback_pay_account">请输入您用于支付的支付宝账号</string>
+    <string name="feedback_contact">请输入您的手机号(11位有效手机号)</string>
+    <string name="feedback_submit">提交</string>
+    <string name="feedback_img_content">上传图片（不超过3张 ,每张不大于1MB）</string>
+
+    <!--export dialog-->
+    <string name="export_title">正在导出文件</string>
+    <string name="export_save_success">已保存到相册</string>
+
+    <!--export dialog-->
+    <string name="dialog_pay_title">正在查询支付结果</string>
+    <string name="dialog_pay_tip">点击“已完成支付”查看支付结果</string>
+
+    <!--delete dialog-->
+    <string name="delete_title">正在删除微信数据</string>
+
+    <!--customer service dialog-->
+    <string name="customer_service_title">服务协议和隐私政策</string>
+    <string name="customer_service_refuse">暂不使用</string>
+    <string name="customer_service_agree">同意</string>
+    <string name="customer_service_agreement">欢迎您使用本软件，您可阅读《服务协议》和《隐私政策》了解详细信息。我们会收集一些设备信息用来标识您享有该设备的付费服务权益。如您同意，点击同意后开始授权和接受我们的服务。</string>
+
+    <!--customer auth service dialog-->
+    <string name="auth_service_title">风险提示</string>
+    <string name="auth_service_refuse">不同意</string>
+    <string name="auth_service_agree">同意</string>
+    <string name="auth_service_content">软件即将进入恢复界面，遵循隐私协议，确保是本机主操作，本操作恢复仅限于恢复本机数据，本软件无法获取及远程操用户的内容。</string>
+
+    <!--quit dialog-->
+    <string name="quite_title">确定要退出支付吗？</string>
+    <string name="quite_ok">确定</string>
+    <string name="quite_cancel">取消</string>
+
+    <!--huawei tutorial-->
+    <string name="tutorial_title">华为微信自助恢复</string>
+
+
+    <!--pay-->
+    <string name="pay_unit">元</string>
+    <string name="pay_title">订单支付</string>
+
+    <!--service-->
+    <string name="vip_service_des">VIP专属客服，点击发起会话</string>
+    <string name="visitor_service_des">全部会员可用，三个工作日内审核，审核结果短信通知</string>
+    <string name="common_questions_des">软件使用以及恢复等常见问题(非客服在线时间可以参考)</string>
+    <string name="charge">立即充值</string>
+
+
+    <!--accessibility-->
+    <string name="access_description">一键备份</string>
+
+    <!--wechat error-->
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unsupported">不支持错误</string>
+    <string name="errcode_unknown">发送返回</string>
+
+    <!--not find dialog-->
+    <string name="not_find_title">提示</string>
+    <string name="not_find_content">没有检测到备份文件，请确认已按照教程在指定目录下拷贝了最新的备份文件</string>
+
+
+    <!--questions-->
+    <string name="questions_title">帮助中心</string>
+
+
+    <!--other-->
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+
+
+</resources>
